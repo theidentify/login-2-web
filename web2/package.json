@@ -1,0 +1,11 @@
+{
+  "name": "web2",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "PORT=4002 react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
